@@ -1,11 +1,11 @@
 {
   "logo": "🏛️",
   "nav": {
-    "title": "Philosophy Wiki"
+    "title": "MobinWiki"
   },
   "favicon": "🏛️",
   "showSidebar": true,
-  "title": "Philosophy Wiki",
+  "title": "MobinWiki",
   "theme": {
     "theme": "letterpress@0.1.6"
   }
